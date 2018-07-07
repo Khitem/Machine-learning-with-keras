@@ -1,5 +1,7 @@
 # Machine-learning-with-keras
 Before starting, I want to say that I'm inspired by Jason Brownlee https://www.linkedin.com/in/jasonbrownlee/ in order to grow up in this field that inspires me the most :D 
+
+
 5 steps to create a neural network using python and keras:
 1. Load Data.
 2. Define Model.
