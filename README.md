@@ -9,13 +9,17 @@ Before starting, I want to say that I'm inspired by Jason Brownlee https://www.l
 4. Fit Model.
 5. Evaluate Model.
 
-1. Load the data:
+
+
+Load the data:
 
 
 we are going to use the Pima Indians onset of diabetes dataset. This is a standard machine learning dataset from the UCI Machine Learning repository. It describes patient medical record data for Pima Indians and whether they had an onset of diabetes within five years.
 
 
 We can load the data using NumPy function loadtxt()
+
+
 There are eight input variables and one output variable (the last column).
 After loading the data, we can split the dataset into input variables (X) and the output class variable (Y).
 
